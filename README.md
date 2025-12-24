@@ -3,7 +3,7 @@
 I’m a bioinformatician / computational biologist focused on **single-cell transcriptomics** and **systems/network biology**, with a strong interest in **reproducible pipelines** and clean, well-documented analyses.
 
 ### About me 
-- Bioinformatics + programming background, working end-to-end from **raw sequencing files** (FASTQ/BAM) to **biological interpretation**.
+- Bioinformatics + programming background, working end-to-end from **raw sequencing files** (FASTQ/BAM) to **biological interpretation** in Linux systems.
 - Main expertise in **scRNA-seq**: QC, normalization, clustering, integration, annotation, and downstream analyses.
 - Comfortable bridging **R + Python** workflows (e.g., integrating Seurat-based steps with Python/scverse analyses).
 - Strong focus on **data quality and rigor** (I’m the person who will double-check every identifier before it goes to a table).
@@ -11,7 +11,6 @@ I’m a bioinformatician / computational biologist focused on **single-cell tran
 
 ## What I’m working on now
 - **scRNA-seq analysis pipelines**: QC, normalization (including scran-based strategies), clustering (Leiden),and iterative **cell-type annotation**, using mainly Python (**scverse**), but with R integration when needed (mainly Seurat).
-- **BD Rhapsody scRNA-seq** data handling: dealing with large FASTQ files, demultiplexing performance, and read-level troubleshooting to recover **gene sequences** (not only counts).
 - **Network biology**: filtering real TFs in OmniPath TRI, diffusion-kernel workflows (TieDIE), and integration with causal/network frameworks.
 - **Reporting & delivery**: generating clean **HTML reports from notebooks** (nbconvert) with better navigation and readability for collaborators.
 
@@ -25,9 +24,9 @@ I’m a bioinformatician / computational biologist focused on **single-cell tran
 
 ---
 
-## Selected themes I like working with
+## Selected themes I like and have experience working with
 - Single-cell biology, annotation strategies, and robust QC decisions.
-- Host–[[microbiota]] interactions and immunology-driven questions.
+- Host–microbiota interactions and immunology-driven questions.
 - Network-based interpretation (TF activity, regulatory wiring, perturbation/causal thinking).
 - Turning messy data into **clean, shareable, reproducible outputs**.
 
