@@ -2,6 +2,8 @@
 
 I’m a bioinformatician / computational biologist focused on **single-cell transcriptomics** and **systems/network biology**, with a strong interest in **reproducible pipelines** and clean, well-documented analyses.
 
+📄 **[Download my full CV (PDF)](https://www.tahila.work/_files/ugd/c47fd7_99233a8265254c76a055a95bd1930969.pdf)**
+
 ### About me 
 - Bioinformatics + programming background, working end-to-end from **raw sequencing files** (FASTQ/BAM) to **biological interpretation** in Linux systems.
 - Main expertise in **scRNA-seq**: QC, normalization, clustering, integration, annotation, and downstream analyses.
@@ -9,11 +11,16 @@ I’m a bioinformatician / computational biologist focused on **single-cell tran
 - Strong focus on **data quality and rigor** (I’m the person who will double-check every identifier before it goes to a table).
 ---
 
-## Starred projects:
+## Starred Projects
 
-[HMIpipeline (MicrobioLink)](https://github.com/TAndrighetti/HMIpipeline)  
-[scRNA-seq-workflows](https://github.com/TAndrighetti/scRNA-seq-workflows)  
-[Systems biology analysis of *Citrobacter rodentium* RNAseq](https://github.com/TAndrighetti/crodentium-rnaseq-networks)
+### Code Repositories (GitHub)
+- [HMIpipeline (MicrobioLink)](https://github.com/TAndrighetti/HMIpipeline)  
+- [scRNA-seq-workflows](https://github.com/TAndrighetti/scRNA-seq-workflows)  
+- [Systems biology analysis of *Citrobacter rodentium* RNA-seq](https://github.com/TAndrighetti/crodentium-rnaseq-networks)
+
+### Project Descriptions & Case Studies (Portfolio)
+- [Taxonomic classification of microbial sequences using machine learning (SVM)](https://www.tahila.work/metagenome-ml)  
+- [Development of an ecological biopesticide using RNAi](https://www.tahila.work/rnai-project)
 
 ---
 ## Current focus
@@ -22,15 +29,6 @@ I’m a bioinformatician / computational biologist focused on **single-cell tran
 - **Reporting & delivery**: generating clean **HTML reports from notebooks** (nbconvert) with better navigation and readability for collaborators.
 
 ---
-
-## Skills
-
-| General tools & programming languages | Single-cell packages | Visualization packages | General Python packages | Systems biology tools & packages | Soft skills |
-|---|---|---|---|---|---|
-| - Python<br>- R<br>- Bash / shell scripting<br>- Linux<br>- Git / GitHub<br>- Jupyter / notebooks<br>- HPC / cluster workflows (qsub / SGE-style)<br>- Conda environments<br>- File formats: FASTQ, BAM, HDF5 (h5/h5ad) | - Scanpy / scverse<br>- AnnData workflows<br>- Seurat<br>- CellBender (ambient RNA removal)<br>- SoupX (ambient RNA removal)<br>- Scrublet (doublet detection)<br>- MAST (single-cell DE)<br>- Harmony (integration / batch correction) | - Scanpy plotting (`sc.pl`: UMAP, matrixplot, etc.)<br>- Matplotlib (custom figures)<br>- Notebook → HTML reporting (nbconvert-based) | - NumPy<br>- pandas<br>- SciPy<br>- scikit-learn<br>- statsmodels<br>- Jupyter ecosystem (ipykernel, nbconvert) | - decoupler (TF activity / pathway scoring)<br>- OmniPath (TRI / regulatory interactions)<br>- COLLECTRI networks<br>- Cytoscape (network visualization / different apps)<br>- TieDIE (diffusion / kernels)<br>| - Strong rigor in QC and validation (IDs, organisms, consistency)<br>- Clear documentation and handoff (reports, notebooks, training materials)<br>- Communication with multidisciplinary and international teams<br>- Pipeline organization and deliverable-driven work<br>- Troubleshooting mindset (environments, data issues, performance)<br>- Reproducibility-first approach and clean coding practices |
-
----
-
 ## Selected themes I like and have experience working with
 - Single-cell biology, annotation strategies, and robust QC decisions.
 - Host–microbiota interactions and immunology-driven questions.
@@ -42,3 +40,4 @@ I’m a bioinformatician / computational biologist focused on **single-cell tran
 ## Contact
 - LinkedIn: <https://www.linkedin.com/in/tahilaandrighetti/>
 - Email: tahilaandrighetti@gmail.com | tahila@unicamp.br
+- Portfolio: <https://www.tahila.work>
