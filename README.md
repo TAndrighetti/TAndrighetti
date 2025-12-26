@@ -11,9 +11,9 @@ I’m a bioinformatician / computational biologist focused on **single-cell tran
 
 ## Starred projects:
 
-[HMIpipeline (MicrobioLink)](https://github.com/TAndrighetti/HMIpipeline)
-[scRNA-seq-workflows](https://github.com/TAndrighetti/scRNA-seq-workflows)
-[Systems biology analysis of *Citrobacter rodentium* RNAseq](https://www.google.com](https://github.com/TAndrighetti/crodentium-rnaseq-networks)
+[HMIpipeline (MicrobioLink)](https://github.com/TAndrighetti/HMIpipeline)  
+[scRNA-seq-workflows](https://github.com/TAndrighetti/scRNA-seq-workflows)  
+[Systems biology analysis of *Citrobacter rodentium* RNAseq](https://github.com/TAndrighetti/crodentium-rnaseq-networks)
 
 ---
 ## What I’m working on now
