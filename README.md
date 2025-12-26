@@ -9,6 +9,13 @@ I’m a bioinformatician / computational biologist focused on **single-cell tran
 - Strong focus on **data quality and rigor** (I’m the person who will double-check every identifier before it goes to a table).
 ---
 
+## Starred projects:
+
+[HMIpipeline (MicrobioLink)](https://github.com/TAndrighetti/HMIpipeline)
+[scRNA-seq-workflows](https://github.com/TAndrighetti/scRNA-seq-workflows)
+[Systems biology analysis of *Citrobacter rodentium* RNAseq](https://www.google.com](https://github.com/TAndrighetti/crodentium-rnaseq-networks)
+
+---
 ## What I’m working on now
 - **scRNA-seq analysis pipelines**: QC, normalization (including scran-based strategies), clustering (Leiden),and iterative **cell-type annotation**, using mainly Python (**scverse**), but with R integration when needed (mainly Seurat).
 - **Network biology**: filtering real TFs in OmniPath TRI, diffusion-kernel workflows (TieDIE), and integration with causal/network frameworks.
