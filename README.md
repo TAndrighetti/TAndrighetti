@@ -16,7 +16,7 @@ I’m a bioinformatician / computational biologist focused on **single-cell tran
 [Systems biology analysis of *Citrobacter rodentium* RNAseq](https://github.com/TAndrighetti/crodentium-rnaseq-networks)
 
 ---
-## What I’m working on now
+## Current focus
 - **scRNA-seq analysis pipelines**: QC, normalization (including scran-based strategies), clustering (Leiden),and iterative **cell-type annotation**, using mainly Python (**scverse**), but with R integration when needed (mainly Seurat).
 - **Network biology**: filtering real TFs in OmniPath TRI, diffusion-kernel workflows (TieDIE), and integration with causal/network frameworks.
 - **Reporting & delivery**: generating clean **HTML reports from notebooks** (nbconvert) with better navigation and readability for collaborators.
