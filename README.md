@@ -19,7 +19,7 @@ Bioinformatician / computational biologist focused on **single-cell transcriptom
 ### Code Repositories (GitHub)
 - [HMIpipeline (MicrobioLink)](https://github.com/TAndrighetti/HMIpipeline)  
 - [scRNA-seq-workflows](https://github.com/TAndrighetti/scRNA-seq-workflows)  
-- [Systems biology analysis of *Citrobacter rodentium* RNA-seq](https://github.com/TAndrighetti/crodentium-rnaseq-networks)
+- [Systems biology analysis of bacterial RNA-seq](https://github.com/TAndrighetti/crodentium-rnaseq-networks)
 - [Pathway-Gene Correlation Analysis](https://github.com/TAndrighetti/path-gene-correlations)
 
 ### Project Descriptions & Case Studies (Portfolio)
