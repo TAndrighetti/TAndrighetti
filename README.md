@@ -1,4 +1,4 @@
-# Hi, I'm Tahila Andrighetti 👋
+# Hi, I'm Tahila Andrighetti!
 
 Bioinformatician / computational biologist focused on **single-cell transcriptomics** and **systems/network biology**, with a strong interest in **reproducible pipelines** and clean, well-documented analyses.
 
