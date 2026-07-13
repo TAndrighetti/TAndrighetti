@@ -8,9 +8,9 @@ Bioinformatician / computational biologist focused on **single-cell transcriptom
 
 - Bioinformatician working primarily in **Linux environments**, with **Python** as the main programming language, complemented by **Bash** and working knowledge of **R** for integrative analyses.
 - Expertise in **end-to-end scRNA-seq analysis workflows**, from raw sequencing files (FASTQ/BAM) through QC, normalization, integration, clustering, annotation, and functional interpretation.
-- Specialized in **systems biology and network-based analyses**, leveraging signaling and regulatory networks to address biological questions beyond gene lists.
+- Specialized in **systems biology and network-based analyses**, using signaling and regulatory networks to address biological questions beyond gene lists.
 - Research focus on **host–microbiome interactions, immunology, and inflammation**, including **IBD**, immune cell biology, microbial virulence factors, and gene regulation in health and disease, often integrating **multi-omics** data.
-- Committed to **reproducible science and data rigor**, with experience in pipeline development, workflow standardization, and meticulous validation of identifiers, annotations, and results.
+- Committed to **reproducible science and data rigor**, with experience in pipeline development and workflow standardization
 
 ---
 
@@ -18,7 +18,7 @@ Bioinformatician / computational biologist focused on **single-cell transcriptom
 
 ### Code Repositories (GitHub)
 - [HMIpipeline (MicrobioLink)](https://github.com/TAndrighetti/HMIpipeline)  
-- [scRNA-seq-workflows](https://github.com/TAndrighetti/scRNA-seq-workflows)  
+- [scRNA-seq-workflows](https://github.com/TAndrighetti/SingleCell_Analysis_Tools)  
 - [Systems biology analysis of bacterial RNA-seq](https://github.com/TAndrighetti/crodentium-rnaseq-networks)
 - [Pathway-Gene Correlation Analysis](https://github.com/Laboratorio-de-Imunoinflamacao-UNICAMP/path-gene-correlations)
 
